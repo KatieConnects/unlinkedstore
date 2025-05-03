@@ -1,0 +1,8 @@
+{
+  "name": "Stremio",
+  "description": "Official Stremio streaming app (no add-ons included)",
+  "package": "com.stremio.stremio",
+  "version": "Official",
+  "icon": "https://www.stremio.com/img/icon.png",
+  "apk": "https://www.stremio.com/Android.apk"
+}
